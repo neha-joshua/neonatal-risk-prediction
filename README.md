@@ -1,4 +1,3 @@
-# neonatal-risk-prediction
 # Neonatal Health Risk Prediction
 
 ## Overview
